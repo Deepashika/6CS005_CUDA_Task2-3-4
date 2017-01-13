@@ -13,7 +13,7 @@ and functions to performe general functions.*/
 
 /*use different size matrixes (by changing the value of N) Here I have changed N value into 22*/
 
-#define N 20
+#define N 32
 
  
 /*Global function is also called "kernels".
