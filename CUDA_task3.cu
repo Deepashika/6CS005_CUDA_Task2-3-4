@@ -3,7 +3,7 @@
 //--------------------------------------------------
 
 
-/*hese are header files, include <stdio.h> 
+/*These are header files, include <stdio.h> 
 -the compiler to include this header file for compilation
 stdlib.h header provides variable types,several macros, 
 and functions to performe general functions.*/
